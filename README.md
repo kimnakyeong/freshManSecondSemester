@@ -1,2 +1,2 @@
-# freshManSecondSemester
-This is for the second semester's coding arrangement 
+# winterVacation
+This is for the winterVacation codings' arrangement.

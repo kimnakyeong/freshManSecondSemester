@@ -9,6 +9,8 @@ this package is consist of five Class file which name are "Soyoung", "AddWord", 
 
 "FileLoad" isn't need for the game execute.
 
+It is for the practice.
+
 "JPanelTest" has main method. This game could run in this class.
 
 This game need external Library. that is JavaZoom. http://www.javazoom.net/projects.html .. JLayer needs installed to run this program.

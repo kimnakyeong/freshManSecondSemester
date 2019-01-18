@@ -26,3 +26,11 @@ Main window is Game_end. when pressed start button, the "Soyoung" class will app
 and when pressed add button, the "AddWord" class will appear at the main window.
 
 the backbutton is detached in every panel.
+
+
+
+if you want to play this directly in the computer which haven't installed JAVA jre.
+
+download the file which name is 'execute_typing_game.zip'. and create the txt file which name is 'word' in directory "C:\java".
+
+then execute 'project.exe'. It will be run.

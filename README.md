@@ -29,8 +29,3 @@ the backbutton is detached in every panel.
 
 
 
-if you want to play this directly in the computer which haven't installed JAVA jre.
-
-download the file which name is 'execute_typing_game.zip'. and create the txt file which name is 'word' in directory "C:\java".
-
-then execute 'project.exe'. It will be run.
